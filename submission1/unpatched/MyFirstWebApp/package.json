@@ -1,0 +1,17 @@
+{
+  "name": "myfirstwebapp",
+  "version": "1.0.0",
+  "description": "My First NodeJS Web Application",
+  "main": "httpd.js",
+  "scripts": {
+    "start": "node httpd.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "first",
+    "web",
+    "app"
+  ],
+  "author": "shazam2morrow",
+  "license": "MIT"
+}
